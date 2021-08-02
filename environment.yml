@@ -1,0 +1,14 @@
+name: mciso
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pyomo
+  # solvers
+  - coincbc
+  - ipopt
+  - glpk
+

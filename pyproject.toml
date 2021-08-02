@@ -1,0 +1,10 @@
+[build-system]
+requires = [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "pyomo",
+    "setuptools>=42",
+    "wheel"
+]
+build-backend = "setuptools.build_meta"

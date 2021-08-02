@@ -1,0 +1,9 @@
+name: mciso
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - nbconvert
+  - isort
+  - black
+  - pylint
